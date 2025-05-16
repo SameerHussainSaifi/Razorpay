@@ -8,6 +8,7 @@ function App() {
     <NavBar/>
     <UpperSection/>
     <PaymentSuite/>
+   <h1 className="text-blue-400">hello</h1>
   </div>
  )
 }
